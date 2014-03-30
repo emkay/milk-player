@@ -2,6 +2,8 @@
 logs
 *.log
 
+demo.mp3
+
 # Runtime data
 pids
 *.pid

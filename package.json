@@ -1,0 +1,27 @@
+{
+  "name": "milk-player",
+  "version": "0.0.0",
+  "description": "Music I Love oK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emkay/milk-player.git"
+  },
+  "keywords": [
+    "music",
+    "player"
+  ],
+  "author": "Michael Matuzak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emkay/milk-player/issues"
+  },
+  "homepage": "https://github.com/emkay/milk-player",
+  "dependencies": {
+    "player": "^0.1.5",
+    "terminal-menu": "^0.3.1"
+  }
+}
